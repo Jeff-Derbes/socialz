@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Socialz
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
